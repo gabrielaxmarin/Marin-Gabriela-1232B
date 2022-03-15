@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31209175666",
+    "project_id": "my-shopping-list-1cb8b",
+    "storage_bucket": "my-shopping-list-1cb8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31209175666:android:877835875d10dcd873e0eb",
+        "android_client_info": {
+          "package_name": "com.example.l5_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31209175666-0dvduqj0b4pp6uqavdppljigg6khf7bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOm-8J6WvI6QYkAY37Y8_qZ-QTSbNO_UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31209175666-0dvduqj0b4pp6uqavdppljigg6khf7bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
